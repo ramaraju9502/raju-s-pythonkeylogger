@@ -26,12 +26,12 @@ How to Download and Run on Kali Linux
 If hosted on GitHub, use:
 
 bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ramaraju9502/raju-s-pythonkeylogger.git
 cd your-repo-name
 Or, download the file directly:
 
 bash
-wget https://github.com/yourusername/your-repo-name/raw/main/raju-s-keylogger.py
+wget https://github.com/ramaraju9502/raju-s-pythonkeylogger.git
 
 
 
