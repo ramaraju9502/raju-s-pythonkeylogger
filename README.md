@@ -19,6 +19,8 @@ Install requirements with:
 
 bash
 pip install pynput
+
+
 How to Download and Run on Kali Linux
 1. Download the Script
 If hosted on GitHub, use:
@@ -30,6 +32,9 @@ Or, download the file directly:
 
 bash
 wget https://github.com/yourusername/your-repo-name/raw/main/raju-s-keylogger.py
+
+
+
 2. Install Python and Dependencies
 Ensure Python and pip are installed:
 
@@ -42,6 +47,9 @@ For the modern Kali setup (recommended isolation):
 bash
 sudo apt install pipx
 pipx install pynput
+
+
+
 3. Run the Script
 Start the keylogger on Kali Linux with:
 
